@@ -1,0 +1,4 @@
+#ignorer les fichiers log
+*.log
+#ignorer le répertoire bin
+/bin
